@@ -1,5 +1,4 @@
 module.exports = {
-  webpack5: true,
   images: {
     domains: ['gravatar.com']
   },
