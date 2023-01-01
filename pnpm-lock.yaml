@@ -17,7 +17,6 @@ specifiers:
   notion-client: ^4.10.0
   notion-utils: ^4.10.0
   postcss: ^8.3.11
-  preact: ^10.5.15
   react: ^17.0.2
   react-cusdis: ^2.0.1
   react-dom: ^17.0.2
@@ -32,7 +31,6 @@ dependencies:
   next: 12.3.4_sfoxds7t5ydpegc3knd667wn6m
   notion-client: 4.19.8
   notion-utils: 4.19.8
-  preact: 10.11.3
   react: 17.0.2
   react-cusdis: 2.1.3_sfoxds7t5ydpegc3knd667wn6m
   react-dom: 17.0.2_react@17.0.2
@@ -2700,10 +2698,6 @@ packages:
       preact: '*'
     dependencies:
       preact: 8.1.0
-    dev: false
-
-  /preact/10.11.3:
-    resolution: {integrity: sha512-eY93IVpod/zG3uMF22Unl8h9KkrcKIRs2EGar8hwLZZDU1lkjph303V9HZBwufh2s736U6VXuhD109LYqPoffg==}
     dev: false
 
   /preact/8.1.0:
